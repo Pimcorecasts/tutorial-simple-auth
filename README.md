@@ -1,4 +1,4 @@
-# Tutorial Simple Authuth
+# Tutorial Simple Authentication
 This repository holds the View Templates and the CSS for our Simple Auth Tutorial.
 
 
