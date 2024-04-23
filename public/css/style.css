@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+}
+
+/* Signin */
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+}
+
+.form-register .top-input{
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-register .center-input{
+    border-radius: 0;
+    margin-bottom: -1px;
+    margin-top: -1px;
+}
+
+
+.form-register .bottom-input {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
