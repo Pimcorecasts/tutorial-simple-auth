@@ -1,0 +1,13 @@
+imports:
+    - { resource: 'local/' }
+
+pimcore:
+
+    # Override our User Data Object
+    models:
+        class_overrides:
+            'Pimcore\Model\DataObject\User': 'App\Model\DataObject\User'
+
+
+#### SYMFONY OVERRIDES
+framework:
